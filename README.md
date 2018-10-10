@@ -1,5 +1,5 @@
-# 1.5
-#Assignment 5
+# A program which accepts a sequence of comma-separated numbers from console and generate a list.
+
 l =[]
 for x in range(1000):
     num = input('insert a valid number')
